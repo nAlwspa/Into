@@ -1,1 +1,9 @@
+local i = "14"
+print(i)
+
+if i == "14" then
+    print("i is 14")
+else
+    warn("error")
+end
 -- this test
