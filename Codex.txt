@@ -1,7 +1,5 @@
 # GorillaTagOUTFIT
 THEOTHERTAG
-# 750
-sorry
 # 500Coins
 ROBLOX_RTC
 THANKYOU
@@ -12,7 +10,6 @@ happyholidays
 bombplushie
 # 250Coins
 ZANY
-HAPPYHOLIDAYS
 SEPT2022
 UTGBOT
 ADDWALLRUNNING
